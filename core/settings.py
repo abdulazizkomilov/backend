@@ -18,7 +18,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['backend-blog.up.railway.app']
 
-WEBSITE_URL = 'https://backend-blog.up.railway.app/'
+WEBSITE_URL = 'https://backend-blog.up.railway.app'
 
 # EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 
