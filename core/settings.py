@@ -35,10 +35,12 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "https://blogscodes.netlify.app",
+    "https://blogscodes.vercel.app",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "https://blogscodes.netlify.app",
+    "https://blogscodes.vercel.app",
 ]
 
 # COOKIES
