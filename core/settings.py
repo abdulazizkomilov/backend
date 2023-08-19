@@ -34,11 +34,11 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "https://blogscodes.netlify.app/",
+    "https://blogscodes.netlify.app",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://blogscodes.netlify.app/",
+    "https://blogscodes.netlify.app",
 ]
 
 # COOKIES
